@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     var x = "wxyz"
+    var y = "wxyz"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
